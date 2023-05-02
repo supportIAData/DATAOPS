@@ -283,6 +283,19 @@ Ecrire une fonction qui permet de vérifier qu'une liste de caractères ne conti
 testUpper(['A', 'B', 'C' , 'D']) # True
 ```
 
+De même retirer les lignes de la matrice suivante qui ne vérifie le test ci-dessus
+
+```python
+[
+     ['A', 'B', 'C' , 'D'],
+     ['A', 'B', 'C' , 'D'],
+     ['A', 'B', 'c' , 'D'],
+     ['A', 'B', 'C' , 'D'],
+     ['A', 'b', 'C' , 'D'],
+     ['A', 'B', 'C' , 'D'],
+]
+```
+
 Utilisez la méthode **all** de Python sur une liste :
 
 ```python
