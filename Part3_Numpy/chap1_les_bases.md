@@ -214,6 +214,15 @@ t.size
 t.dtype
 ```
 
+## Exercice 
+
+Soit le vecteur de valeurs suivant augmentez de 10% chaque valeurs positives
+
+```python
+analys = np.array( [ 1.72723371e-077  1.72723371e-077 -3.95252517e-323  0.00000000e+000
+  2.12199579e-314  0.00000000e+000  0.00000000e+000  0.00000000e+000
+  1.77229088e-310  3.50977866e+064] )
+
 ## 7. Structure array définition et accès aux données
 
 ### 7.1 Accèder/modifier un/des élément(s) d'un tableau
