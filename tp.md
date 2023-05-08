@@ -43,3 +43,7 @@ Les outils d'organisation
 4. sauvegarde des analyses fichiers ou base de données
 
 Rmq : *comme ces données évoluent vous devez intégrer une notion de temps de réactualisation des données dans votre analyse.*
+
+Sources des données
+
+https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.json
