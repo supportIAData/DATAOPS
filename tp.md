@@ -51,7 +51,7 @@ Puis vous donnerez en quelques lignes vos conclusions générales sur l'étude.
 
 #### Les outils d'organisation
 
-- Trello ou Notion.so, Notebook, Git, Python et Matplolib.
+- Trello, Jira ou Notion.so, Notebook, Git, Python et Matplolib.
 
 - Cycle du traitement des données :
 
