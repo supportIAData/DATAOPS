@@ -22,8 +22,6 @@ Lisez bien le document, dans la denière partie on vous propose des questions po
 
 ### Organisation des équipes
 
-TODO == MICHEL
-
 Par équipe de 3 en utilisant la méthode AGILE vous analyserez ces données. Vous étudierez la variété des prénoms durant cette période.
 
 ### Présentation 
