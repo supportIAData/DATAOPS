@@ -18,11 +18,11 @@ Les experts potentiels des données sont : développeur, base de données & rés
 
 ## Le projet analyse des prénoms Américains 
 
-Lisez bien le document, dans la denière partie on vous propose des questions pour avancer sur la technique, suivez les.
+Lisez bien le document entièremment, on vous donne des techniques pour avancer dans l'analyse de vos données
 
 ### Organisation des équipes
 
-Par équipe de 3 en utilisant la méthode AGILE vous analyserez ces données. Vous étudierez la variété des prénoms durant cette période.
+Par équipe de 3/4 en utilisant la méthode AGILE vous analyserez ces données. Vous étudierez la variété des prénoms durant cette période.
 
 ### Présentation 
 
